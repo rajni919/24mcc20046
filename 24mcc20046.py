@@ -1,1 +1,1 @@
-print("Hello, this is 24MCC20046.py")
+print("This is an updated version")
