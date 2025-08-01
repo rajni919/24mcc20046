@@ -1,2 +1,6 @@
 i am MC Student
+<<<<<<< HEAD
 i am MCA-CCD
+=======
+I am MCA-AIML
+>>>>>>> MCA-AIML
